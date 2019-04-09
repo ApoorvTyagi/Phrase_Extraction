@@ -103,12 +103,6 @@ Accuracy with SVM is :0.868020304568528
 Accuracy score with Multi Layer Perceptron: 0.8477157360406091
 ```
 
-## Output obtained
-<div>
-    <img src="C:\Users\tyagi\Downloads\Phrase-Extractor-master\svm.png" style="width:50%;float:left">
-    <img src="C:\Users\tyagi\Downloads\Phrase-Extractor-master\mlp.png" style="width:50%;float:right">
-</div>
-
 ---
 
 ## Project Contributuors
