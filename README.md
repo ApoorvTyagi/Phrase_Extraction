@@ -105,8 +105,8 @@ Accuracy score with Multi Layer Perceptron: 0.8477157360406091
 
 ## Output obtained
 <div>
-    <img src="svm.png" style="width:50%;float:left">
-    <img src="mlp.png" style="width:50%;float:right">
+    <img src="C:\Users\tyagi\Downloads\Phrase-Extractor-master\svm.png" style="width:50%;float:left">
+    <img src="C:\Users\tyagi\Downloads\Phrase-Extractor-master\mlp.png" style="width:50%;float:right">
 </div>
 
 ---
