@@ -68,7 +68,7 @@ if the phrases are found then the regex pattern is used to detect the phrase
 
 ## Code Snippets
 
-#### The Pattern Checking
+#### The Pattern Checking( word before and after the label if found)
 ```python
 sub = '(\w*)\W*('+label+')\W*(\w*)'
 sub = '(\w*)\W*(\w*)\W*('+label+')'
