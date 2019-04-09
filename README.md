@@ -1,4 +1,3 @@
-# Phrase_Extracter
 # Phrase Extractor
 This is a project on Natural Language processing course where a given training text file with phrases are provided with which model is trained and evaluated. Later the trained model is used to predict the phrases for the test file
 
@@ -102,6 +101,12 @@ mlp = MLPClassifier(activation='relu', solver='lbfgs').fit(X_train_tfidf, y_trai
 Accuracy with SVM is :0.868020304568528
 Accuracy score with Multi Layer Perceptron: 0.8477157360406091
 ```
+
+## Output obtained
+<div>
+    <img src="svm.png" style="width:50%;float:left">
+    <img src="mlp.png" style="width:50%;float:right">
+</div>
 
 ---
 
